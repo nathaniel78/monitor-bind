@@ -12,7 +12,7 @@ Passos:
 
 O cabeçalho do arquivo zone, deve estar no padrão yyyymmdds (Y = Ano, m = mês, d = dia, s = serial), ex.:
 
-------------- exemplo de como deve estar o serial ---------------
+>------------- exemplo de como deve estar o serial ---------------
 $TTL    604800
 @       IN      SOA     nyc3.example.com. admin.nyc3.example.com. (
                          202301011      ; Serial
